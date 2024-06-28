@@ -1,0 +1,2 @@
+This repository contains the code for a master thesis project on how data characteristics influence Machine Learning model performance.
+Various types of data scenarios are simualted (investigating linearity, interactions, noise and sample size in the data). The code includes machine learning performance on the simulated data using the train function from the caret package, and code to visualize the results as learning curves.
